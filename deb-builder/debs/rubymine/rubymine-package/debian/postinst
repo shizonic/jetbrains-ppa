@@ -1,0 +1,12 @@
+#!/bin/bash -e
+
+DOWNLOAD_URL="http://download.jetbrains.com/ruby/RubyMine-7.1.4.tar.gz"
+PRODUCT="RubyMine"
+VERSION="7.1.4"
+PACKAGE=rubymine
+
+
+cd /tmp 
+wget $DOWNLOAD_URL
+tar zxf $PRODUCT-$VERSION.tar.gz -C /opt
+

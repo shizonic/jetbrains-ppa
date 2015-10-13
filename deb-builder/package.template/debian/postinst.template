@@ -1,0 +1,5 @@
+
+cd /tmp 
+wget $DOWNLOAD_URL
+tar zxf $PRODUCT-$VERSION.tar.gz -C /opt
+

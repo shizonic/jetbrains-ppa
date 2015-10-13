@@ -1,0 +1,6 @@
+
+DOWNLOAD_URL="http://download.jetbrains.com/ruby/RubyMine-7.1.4.tar.gz"
+PRODUCT="RubyMine"
+VERSION="7.1.4"
+PACKAGE=rubymine
+
