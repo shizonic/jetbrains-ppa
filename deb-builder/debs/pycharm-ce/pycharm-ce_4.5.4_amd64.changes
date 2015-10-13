@@ -1,0 +1,22 @@
+Format: 1.8
+Date: Fri, 04 Sep 2015 12:54:03 +0300
+Source: pycharm-ce
+Binary: pycharm-ce
+Architecture: amd64
+Version: 4.5.4
+Distribution: stable
+Urgency: low
+Maintainer: Alexey Gusev <mad.gooze@gmail.com>, Leonid Stolyarov <lndstol@gmail.com>
+Changed-By: Alexey Gusev <mad.gooze@gmail.com>, Leonid Stolyarov <lndstol@gmail.com>
+Description:
+ pycharm-ce - PyCharm Community Edition Installer
+Changes:
+ pycharm-ce (4.5.4) stable; urgency=low
+ .
+   * Latest official Jetbrains IDE release.
+Checksums-Sha1:
+ bb922041509ab89674b3b9c835e85c205db7214b 1650 pycharm-ce_4.5.4_amd64.deb
+Checksums-Sha256:
+ f584fef79609e4836d7b7947f13c92b428663ee116ce20a38fc512a28482a501 1650 pycharm-ce_4.5.4_amd64.deb
+Files:
+ 5e6930e88776a74526cc759518fb3f6e 1650 non-free/jetbrains optional pycharm-ce_4.5.4_amd64.deb

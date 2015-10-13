@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Fri, 04 Sep 2015 12:54:03 +0300
+Source: pycharm-ce
+Binary: pycharm-ce
+Architecture: source
+Version: 4.5.4
+Distribution: stable
+Urgency: low
+Maintainer: Alexey Gusev <mad.gooze@gmail.com>, Leonid Stolyarov <lndstol@gmail.com>
+Changed-By: Alexey Gusev <mad.gooze@gmail.com>, Leonid Stolyarov <lndstol@gmail.com>
+Description:
+ pycharm-ce - PyCharm Community Edition Installer
+Changes:
+ pycharm-ce (4.5.4) stable; urgency=low
+ .
+   * Latest official Jetbrains IDE release.
+Checksums-Sha1:
+ b6bedab2f9c218be2481d8f291b30cee01cb6c46 534 pycharm-ce_4.5.4.dsc
+ 39c14f568b0cf582ccc89e71d7b9c5393bbb3849 1141 pycharm-ce_4.5.4.tar.gz
+Checksums-Sha256:
+ 8989d8e216f7820386bb911f74e870f80104f602956c7615cad9ffbb6b49127b 534 pycharm-ce_4.5.4.dsc
+ 868285f7634d692c580f890c23f8520c044f8fca57634003f6cafd2333a8c416 1141 pycharm-ce_4.5.4.tar.gz
+Files:
+ f5bb29ac5e690d46eafb1a643b7d0c33 534 non-free/jetbrains optional pycharm-ce_4.5.4.dsc
+ 2cd1ba9cec4df1261b6c758de196223a 1141 non-free/jetbrains optional pycharm-ce_4.5.4.tar.gz
