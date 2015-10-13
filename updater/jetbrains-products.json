@@ -30,6 +30,10 @@
     "pycharm-edu": {
         "variableName": "versionPyCharmEDULong",
         "downloadUrl": "http://download.jetbrains.com/python/pycharm-edu-%version%.tar.gz"
+    },
+    "phpstorm": {
+        "variableName": "versionPhpStormLong",
+        "downloadUrl": "http://download.jetbrains.com/webide/PhpStorm-%version%.tar.gz"
     }
 }
 
