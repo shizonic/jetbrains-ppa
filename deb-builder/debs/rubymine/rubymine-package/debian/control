@@ -1,0 +1,12 @@
+Source: rubymine
+Section: non-free/jetbrains
+Priority: optional
+Maintainer: Alexey Gusev <mad.gooze@gmail.com>, Leonid Stolyarov <lndstol@gmail.com>
+Standards-Version: 3.9.4
+#Homepage: http://lnd-stol.github.io/nautilus-mailru-cloud
+
+Package: rubymine
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Jetbrains IDE
+
