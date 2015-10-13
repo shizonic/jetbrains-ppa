@@ -1,0 +1,11 @@
+#!/bin/bash -e
+
+DOWNLOAD_URL="https://download.jetbrains.com/python/pycharm-community-4.5.4.tar.gz"
+PRODUCT=pycharm-community
+VERSION='4.5.4'
+PACKAGE=pycharm-ce
+APP_NAME='PyCharm Community Edition'
+
+
+rm -rf /opt/$PRODUCT-$VERSION
+

@@ -1,5 +1,8 @@
 
+echo "downloading latest IDE release ..."
 cd /tmp 
 wget $DOWNLOAD_URL
+
+echo "unpacking to /opt"
 tar zxf $PRODUCT-$VERSION.tar.gz -C /opt
 

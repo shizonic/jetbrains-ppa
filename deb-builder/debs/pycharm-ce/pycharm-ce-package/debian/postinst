@@ -1,0 +1,16 @@
+#!/bin/bash -e
+
+DOWNLOAD_URL="https://download.jetbrains.com/python/pycharm-community-4.5.4.tar.gz"
+PRODUCT=pycharm-community
+VERSION='4.5.4'
+PACKAGE=pycharm-ce
+APP_NAME='PyCharm Community Edition'
+
+
+echo "downloading latest IDE release ..."
+cd /tmp 
+wget $DOWNLOAD_URL
+
+echo "unpacking to /opt"
+tar zxf $PRODUCT-$VERSION.tar.gz -C /opt
+

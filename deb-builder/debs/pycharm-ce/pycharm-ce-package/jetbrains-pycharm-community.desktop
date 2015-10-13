@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=4.5.4
+Type=Application
+Name=PyCharm Community Edition
+Icon=/opt/pycharm-community-4.5.4/bin/pycharm-community.png
+Exec="/opt/pycharm-community-4.5.4/bin/pycharm-community.sh" %f
+Comment=Develop with pleasure!
+Categories=Development;IDE;
+Terminal=false
+StartupWMClass=jetbrains-pycharm-community

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=VERSION
+Type=Application
+Name=APP_NAME
+Icon=/opt/PRODUCT-VERSION/bin/PRODUCT_LOWER.png
+Exec="/opt/PRODUCT-VERSION/bin/PRODUCT_LOWER.sh" %f
+Comment=Develop with pleasure!
+Categories=Development;IDE;
+Terminal=false
+StartupWMClass=jetbrains-PRODUCT_LOWER
